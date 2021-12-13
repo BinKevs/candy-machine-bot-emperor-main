@@ -1,6 +1,6 @@
 {
-	"homepage": "https://binkevs.github.io/candy-machine-bot-emperor-main",
-	"name": "RobotEmperors",
+	"homepage": "https://binkevs.github.io/candy-machine-bot-emperor-main/",
+	"name": "candy-machine-mint",
 	"version": "0.1.0",
 	"private": true,
 	"dependencies": {
