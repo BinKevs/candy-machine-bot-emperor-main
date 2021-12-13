@@ -1,0 +1,54 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.MuiPaper-root .MuiDialogContent-root .MuiListItem-root {
+	padding: 0;
+	box-shadow: inset 0 0 0 0 rgb(255 255 255 / 10%);
+}
+
+.MuiPaper-root .MuiDialogTitle-root {
+	background-color: #db5342;
+}
+
+.MuiTypography-h6 {
+	/* font-size: 1.75rem;
+	font-family: "Oswald";
+	font-weight: 700;
+	letter-spacing: 0.0075em; */
+	font-weight: 600;
+	font-size: 30px;
+	line-height: 35px;
+	margin-bottom: 20px;
+	margin-top: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+	text-align: center;
+	color: #fff;
+}
+.MuiTypography-h6 .MuiIconButton-root .MuiIconButton-label {
+	color: white;
+	margin-right: -10px;
+}
+.MuiTypography-h6 .MuiIconButton-root {
+	margin-top: -10px;
+}
+.MuiTypography-h6 .MuiIconButton-root:hover {
+	background-color: #db5342;
+}
+.MuiPaper-root .MuiDialog-paper {
+	width: 400px;
+	margin: 0;
+}
+.MuiPaper-rounded {
+	border-radius: 15px;
+}
+.MuiPaper-root .MuiDialogTitle-root .MuiIconButton-root {
+	color: #9e9e9e;
+	padding: 8px;
+	flex-shrink: 1;
+	margin-right: -8px;
+	position: absolute;
+	top: 10px;
+	right: 20px;
+}
