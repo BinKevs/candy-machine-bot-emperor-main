@@ -1,5 +1,5 @@
 {
-	"homepage": "https://binkevs.github.io/candy-machine-bot-emperor-main/",
+	"homepage": "https://binkevs.github.io/candy-machine-bot-emperor-main",
 	"name": "candy-machine-mint",
 	"version": "0.1.0",
 	"private": true,
@@ -37,7 +37,6 @@
 		"build": "craco build",
 		"test": "craco test",
 		"eject": "react-scripts eject"
-		
 	},
 	"eslintConfig": {
 		"extends": [
