@@ -191,7 +191,7 @@ const Home = (props: HomeProps) => {
 
       {wallet && <p>Remaining: {itemsRemaining}</p>} */}
 
-			<div className="bg-landing-bg-image bg-cover bg-center bg-no-repeat flex flex-col h-screen justify-between">
+			<div className="bg-landing-bg-image bg-cover bg-center bg-no-repeat flex flex-col h-screen relative">
 				<div className="my-10">
 					<img
 						className="mx-auto md:w-1/2 w-full"
@@ -202,7 +202,7 @@ const Home = (props: HomeProps) => {
 
 				<div className="w-full mx-auto space-y-2">
 					<img
-						className="md:w-4/12 w-9/12  mx-auto rounded-md "
+						className="md:w-3/12 w-9/12  mx-auto rounded-md "
 						src={preview}
 						alt=""
 					/>
@@ -281,7 +281,7 @@ const Home = (props: HomeProps) => {
 						{/* </MintContainer> */}
 					</div>
 				</div>
-				<div className="bg-black">
+				<div className="bg-black absolute bottom-0 w-full">
 					<div className="my-5 md:my-3">
 						<div className="flex justify-center text-sm md:text-md font-normal text-gray-200">
 							Copyright 2021 - Robot
