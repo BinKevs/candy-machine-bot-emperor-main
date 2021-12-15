@@ -5,10 +5,16 @@ module.exports = {
 		extend: {
 			backgroundImage: {
 				"landing-bg-image":
-					"url('/src/static/SOL.jpg')",
+					"url('/src/static/Red-Linear-Gradient.png')",
 			},
 			colors: {
 				"landing-button-color": "#DB5342",
+			},
+
+			fontFamily: {
+				bebas: ["Bebas Neue"],
+				robotoCondensed: ["Roboto Condensed"],
+				lux: ["Luxurious Script"],
 			},
 		},
 	},

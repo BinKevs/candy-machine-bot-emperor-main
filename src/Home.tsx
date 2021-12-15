@@ -236,7 +236,7 @@ const Home = (props: HomeProps) => {
 							</ConnectButton>
 						) : (
 							<button
-								className="p-2 text-xl font-bold md:w-2/12 w-1/2 bg-landing-button-color text-white rounded-md"
+								className="p-2 text-xl tracking-widest font-mono font-bold md:w-2/12 w-1/2 bg-landing-button-color text-white rounded-md"
 								disabled={
 									isSoldOut ||
 									isMinting ||
@@ -283,7 +283,7 @@ const Home = (props: HomeProps) => {
 				</div>
 				<div className="bg-black absolute bottom-0 w-full">
 					<div className="my-5 md:my-3">
-						<div className="flex justify-center text-sm md:text-md font-normal text-gray-200">
+						<div className="flex justify-center text-sm md:text-md font-normal font-mono text-gray-200">
 							Copyright 2021 - Robot
 							Emperors
 						</div>
