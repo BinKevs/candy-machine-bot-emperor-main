@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/candy-machine-bot-emperor-main/static/css/main.bc0f35de.chunk.css",
+    "main.js": "/candy-machine-bot-emperor-main/static/js/main.39031167.chunk.js",
+    "main.js.map": "/candy-machine-bot-emperor-main/static/js/main.39031167.chunk.js.map",
+    "runtime-main.js": "/candy-machine-bot-emperor-main/static/js/runtime-main.3f81765e.js",
+    "runtime-main.js.map": "/candy-machine-bot-emperor-main/static/js/runtime-main.3f81765e.js.map",
+    "static/js/2.ca3c8d24.chunk.js": "/candy-machine-bot-emperor-main/static/js/2.ca3c8d24.chunk.js",
+    "static/js/2.ca3c8d24.chunk.js.map": "/candy-machine-bot-emperor-main/static/js/2.ca3c8d24.chunk.js.map",
+    "static/js/3.32b3071b.chunk.js": "/candy-machine-bot-emperor-main/static/js/3.32b3071b.chunk.js",
+    "static/js/3.32b3071b.chunk.js.map": "/candy-machine-bot-emperor-main/static/js/3.32b3071b.chunk.js.map",
+    "index.html": "/candy-machine-bot-emperor-main/index.html",
+    "static/css/main.bc0f35de.chunk.css.map": "/candy-machine-bot-emperor-main/static/css/main.bc0f35de.chunk.css.map",
+    "static/js/2.ca3c8d24.chunk.js.LICENSE.txt": "/candy-machine-bot-emperor-main/static/js/2.ca3c8d24.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/candy-machine-bot-emperor-main/static/media/Red-Linear-Gradient.d70e6ef2.png",
+    "static/media/emperors_banner-copy.6a54897e.png": "/candy-machine-bot-emperor-main/static/media/emperors_banner-copy.6a54897e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f81765e.js",
+    "static/js/2.ca3c8d24.chunk.js",
+    "static/css/main.bc0f35de.chunk.css",
+    "static/js/main.39031167.chunk.js"
+  ]
+}
